@@ -1,0 +1,2 @@
+﻿c:/Users/DATAOGIAC/lab-02-DangDat2201/openapi.yaml:66:9 warning operation-description "Operation "description" must be present and non-empty string." https://meta.stoplight.io/docs/spectral/docs/reference/openapi-rules.md#operation-description
+c:/Users/DATAOGIAC/lab-02-DangDat2201/openapi.yaml:117:9 warning operation-description "Operation "description" must be present and non-empty string." https://meta.stoplight.io/docs/spectral/docs/reference/openapi-rules.md#operation-description
